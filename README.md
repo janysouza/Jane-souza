@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap" rel="stylesheet">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color008000=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jany+Souza;+I+from+São+Paulo,+Capital;I+study+development+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color696969=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jany+Souza;+I+from+São+Paulo,+Capital;I+study+development+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
